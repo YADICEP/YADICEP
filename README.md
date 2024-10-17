@@ -1,9 +1,10 @@
-![Bienvenidos a mi perfil](https://your-banner-link.com/banner.png)
-
+![Bienvenidos a mi perfil](https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/463443730_10162972448187494_3528223259706082600_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeEgTg7h5qevZ-qzC_KREl_sGf1h1DdlpncZ_WHUN2Wmd_HeNJ9iANx0lAs4qc1Hm-8&_nc_ohc=53fSnaaUjywQ7kNvgFi7ToA&_nc_zt=23&_nc_ht=scontent-scl2-1.xx&_nc_gid=AkNss8wlZaQWiewd7Muiz_L&oh=00_AYASgAZP5IJTYYBf-Ovno1WTJpiVJOi5FdE2O3S3f4cUvA&oe=671718C6)
 
 # ¡Hola, soy Yady! 👋
 
+
 Bienvenidos a mi perfil de GitHub. Soy uan desarrolladora apasionada por la tecnología y siempre buscando aprender más. 🚀
+
 
 ### Tecnologías que uso:
 
@@ -30,14 +31,17 @@ Bienvenidos a mi perfil de GitHub. Soy uan desarrolladora apasionada por la tecn
 
 ---
 
+
 ### Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yadicep&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yadicep&show_icons=true&theme=radical)  
+
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yadicep&layout=compact)
 
 ### Trofeos:
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=yadicep)
 
 ---
+
 
 ### Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadiraespinoza)
