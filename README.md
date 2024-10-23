@@ -6,11 +6,9 @@ Bienvenidos a mi perfil de GitHub 🚀
 
 Desarrolladora Frontend | Analista de Datos | Emprendedora
 
-Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. Cuento con:
+Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. Cuento con experiencia en desarrollo frontend usando tecnologías modernas como HTML, CSS, Vue.js, Vite, Javascript y Bootstrap, especializada en el análisis de datos con herramientas como SQL, Tableau, Excel o Spreadsheets y R y una formación académica me ha dado una base sólida para enfrentar cualquier desafío técnico, desde el desarrollo web hasta el análisis de grandes volúmenes de datos.
 
-• Certificado de Desarrolladora Frontend: Esto me posiciona firmemente en el mercado del desarrollo web, con experiencia en tecnologías modernas como HTML, CSS, Vue.js, Vite, Javascript y Bootstrap.
-• Certificado de Análisis de Datos de Google: Especializada en el análisis de datos con herramientas como SQL, Tableau, Excel o Spreadsheets y R. Busco de transformar datos en información valiosa para la toma de decisiones.
-• Estudios de Informática: Mi formación académica me ha dado una base sólida para enfrentar cualquier desafío técnico, desde el desarrollo web hasta el análisis de grandes volúmenes de datos.
+Busco de transformar datos en información valiosa para la toma de decisiones y crear aplicaciones que resuelvan problemas reales de una manera eficiente, optimizando procesos y mejorando la experiencia de usuario. Mi objetivo es siempre ofrecer soluciones escalables y bien diseñadas, que se adapten a las necesidades de cada cliente o proyecto. Me motiva la posibilidad de impactar positivamente a través del análisis de datos y el desarrollo de tecnología innovadora.
 
 Actualmente, me encuentro en el lanzamiento de mi propia empresa, [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de desarrollo web y análisis de datos, ayudando a empresas a crear soluciones digitales efectivas y basadas en datos.
 
