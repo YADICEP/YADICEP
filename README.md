@@ -1,9 +1,23 @@
 ![Bienvenidos a mi perfil](https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/463443730_10162972448187494_3528223259706082600_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeEgTg7h5qevZ-qzC_KREl_sGf1h1DdlpncZ_WHUN2Wmd_HeNJ9iANx0lAs4qc1Hm-8&_nc_ohc=53fSnaaUjywQ7kNvgFi7ToA&_nc_zt=23&_nc_ht=scontent-scl2-1.xx&_nc_gid=AkNss8wlZaQWiewd7Muiz_L&oh=00_AYASgAZP5IJTYYBf-Ovno1WTJpiVJOi5FdE2O3S3f4cUvA&oe=671718C6)
 
-# ¡Hola, soy Yady! 👋
+# ¡Hola! 👋
 
+Bienvenidos a mi perfil de GitHub 🚀
 
-Bienvenidos a mi perfil de GitHub. Soy uan desarrolladora apasionada por la tecnología y siempre buscando aprender más. 🚀
+Desarrolladora Frontend | Analista de Datos | Emprendedora
+
+Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. Cuento con:
+
+• Certificado de Desarrolladora Frontend: Esto me posiciona firmemente en el mercado del desarrollo web, con experiencia en tecnologías modernas como HTML, CSS, Vue.js, Vite, Javascript y Bootstrap.
+• Certificado de Análisis de Datos de Google: Especializada en el análisis de datos con herramientas como SQL, Tableau, Excel o Spreadsheets y R. Busco de transformar datos en información valiosa para la toma de decisiones.
+• Estudios de Informática: Mi formación académica me ha dado una base sólida para enfrentar cualquier desafío técnico, desde el desarrollo web hasta el análisis de grandes volúmenes de datos.
+
+Actualmente, me encuentro en el lanzamiento de mi propia empresa, [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de desarrollo web y análisis de datos, ayudando a empresas a crear soluciones digitales efectivas y basadas en datos.
+
+Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colaborar y crecer.
+
+¡Conectemos y creemos algo increíble juntos!
+
 
 
 ### Tecnologías que uso:
@@ -28,6 +42,9 @@ Bienvenidos a mi perfil de GitHub. Soy uan desarrolladora apasionada por la tecn
 ![DataViz](https://img.shields.io/badge/-Data%20Visualization-4CAF50?logo=databricks&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-0B8043?logo=google-sheets&logoColor=white)
+
 
 ---
 
