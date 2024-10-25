@@ -59,7 +59,7 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colabo
 ### Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadiraespinoza)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/56942375009)
-[![Website](https://img.shields.io/badge/Website-visit-blue?logo=googlechrome)](https://www.ycepstudio.com)
+[![YCEP Studio](https://img.shields.io/badge/Website-visit-blue?logo=googlechrome)](https://www.ycepstudio.com)
 
 
 
