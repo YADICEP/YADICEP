@@ -12,6 +12,7 @@ Actualmente, me encuentro en el lanzamiento de [YCEP Studio](https://ycepstudio.
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colaborar y crecer.
 
+<br><br>
 
 
 ### Tecnologías que uso:
@@ -39,8 +40,7 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colabo
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-0B8043?logo=google-sheets&logoColor=white)
 
-
----
+<br>
 
 
 ### Estadísticas de GitHub:
@@ -48,10 +48,12 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colabo
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yadicep&layout=compact)
 
+<br>
+
 ### Trofeos:
 ![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=yadicep)
 
----
+<br>
 
 
 ### Conéctate conmigo:
