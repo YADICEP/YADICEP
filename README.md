@@ -4,15 +4,13 @@ Bienvenidos a mi perfil de GitHub 🚀
 
 Desarrolladora Frontend | Analista de Datos | Emprendedora
 
-Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. Cuento con experiencia en desarrollo frontend usando tecnologías modernas como HTML, CSS, Vue.js, Vite, Javascript y Bootstrap, especializada en el análisis de datos con herramientas como SQL, Tableau, Excel o Spreadsheets y R más una formación académica que me ha dado una base sólida para enfrentar cualquier desafío técnico, desde el desarrollo web hasta el análisis de grandes volúmenes de datos.
+Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. 
 
 Busco de transformar datos en información valiosa para la toma de decisiones y crear aplicaciones que resuelvan problemas reales de una manera eficiente, optimizando procesos y mejorando la experiencia de usuario. Mi objetivo es siempre ofrecer soluciones escalables y bien diseñadas, que se adapten a las necesidades de cada cliente o proyecto. Me motiva la posibilidad de impactar positivamente a través del análisis de datos y el desarrollo de tecnología innovadora.
 
-Actualmente, me encuentro en el lanzamiento de mi propia empresa, [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de desarrollo web y análisis de datos, ayudando a empresas a crear soluciones digitales efectivas y basadas en datos.
+Actualmente, me encuentro en el lanzamiento de [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de desarrollo web y análisis de datos, ayudando a empresas a crear soluciones digitales efectivas y basadas en datos.
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colaborar y crecer.
-
-¡Conectemos y creemos algo increíble juntos!
 
 
 
