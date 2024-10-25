@@ -8,7 +8,7 @@ Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolve
 
 Busco de transformar datos en información valiosa para la toma de decisiones y crear aplicaciones que resuelvan problemas reales de una manera eficiente, optimizando procesos y mejorando la experiencia de usuario. Mi objetivo es siempre ofrecer soluciones escalables y bien diseñadas, que se adapten a las necesidades de cada cliente o proyecto. Me motiva la posibilidad de impactar positivamente a través del análisis de datos y el desarrollo de tecnología innovadora.
 
-Actualmente, me encuentro en el lanzamiento de [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de Diseño web personalizado y Análisis Estratégico de Datos para el Crecimiento Empresarial, ayudando a empresas a crear soluciones digitales efectivas y basadas en datos.
+Actualmente, me encuentro en el lanzamiento de [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de Diseño Web Personalizado y Análisis Estratégico de Datos para el Crecimiento Empresarial.
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colaborar y crecer.
 
