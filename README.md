@@ -1,21 +1,21 @@
-# ¡Hola! 👋
+# ¡Hi! 👋
 
-Bienvenidos a mi perfil de GitHub 🚀
+Welcome to my GitHub profile 🚀
 
-Desarrolladora Frontend | Analista de Datos | Emprendedora
+Frontend Developer | Data Analyst | Entrepreneur
 
-Estoy aquí para aprender y ser inspirada… Siento una gran pasión por resolver problemas complejos a través de la tecnología. 
+I'm here to learn and be inspired. I'm deeply passionate about solving problems through technology.
 
-Busco de transformar datos en información valiosa para la toma de decisiones y crear aplicaciones que resuelvan problemas reales de una manera eficiente, optimizando procesos y mejorando la experiencia de usuario. Mi objetivo es siempre ofrecer soluciones escalables y bien diseñadas, que se adapten a las necesidades de cada cliente o proyecto. Me motiva la posibilidad de impactar positivamente a través del análisis de datos y el desarrollo de tecnología innovadora.
+I aim to transform data into valuable insights for decision-making and to create applications that efficiently solve real-world problems, optimizing processes and improving user experiences.
 
-Actualmente, me encuentro en el lanzamiento de [YCEP Studio](https://ycepstudio.com), donde ofrezco servicios de Diseño Web Personalizado y Análisis Estratégico de Datos para el Crecimiento Empresarial.
+My goal is to always deliver scalable and well-designed solutions that meet the needs of each client or project. I am driven by the opportunity to make a positive impact through data analysis and the development of innovative technology.
 
-Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colaborar y crecer.
+I'm constantly seeking new challenges and opportunities to learn, collaborate, and grow.
 
 <br><br>
 
 
-### Tecnologías que uso:
+### Technologies I Use:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -43,20 +43,20 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para aprender, colabo
 <br>
 
 
-### Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yadicep&show_icons=true&theme=radical)  
+### GitHub Statistics:
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yadicep&show_icons=true&theme=radical)  
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yadicep&layout=compact)
 
 <br>
 
-### Trofeos:
-![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=yadicep)
+### Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yadicep)
 
 <br>
 
 
-### Conéctate conmigo:
+### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadiraespinoza)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/56942375009)
 [![](https://img.shields.io/badge/Website-visit-blue?logo=googlechrome)](https://www.ycepstudio.com)
