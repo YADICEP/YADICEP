@@ -12,8 +12,29 @@ My goal is to always deliver scalable and well-designed solutions that meet the 
 
 I'm constantly seeking new challenges and opportunities to learn, collaborate, and grow.
 
+🚀 **Check out my portfolio!** 🌟
+Explore my projects, skills, and experience in **data science** and **web development**: 🔗 [Click here](https://yadicep.github.io/portfolio/)
+
+<br>
+---
 <br><br>
 
+Bienvenido a mi perfil de GitHub 🚀
+
+Desarrollador Frontend | Analista de Datos | Emprendedor
+
+Estoy aquí para aprender y encontrar inspiración. Me apasiona profundamente resolver problemas a través de la tecnología.
+
+Mi objetivo es transformar los datos en información valiosa para la toma de decisiones y crear aplicaciones que resuelvan de manera eficiente problemas reales, optimizando procesos y mejorando la experiencia del usuario.
+
+Mi meta es siempre entregar soluciones escalables y bien diseñadas que satisfagan las necesidades de cada cliente o proyecto. Estoy motivado por la oportunidad de generar un impacto positivo a través del análisis de datos y el desarrollo de tecnología innovadora.
+
+Siempre estoy buscando nuevos desafíos y oportunidades para aprender, colaborar y crecer.
+
+🚀 ¡Mira mi portafolio! 🌟
+Explora mis proyectos, habilidades y experiencia en ciencia de datos y desarrollo web: 🔗 [Clic aquí](https://yadicep.github.io/portfolio/)
+
+<br><br>
 
 ### Technologies I Use:
 
